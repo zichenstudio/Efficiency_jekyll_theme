@@ -275,6 +275,8 @@ Super lightweight Jekyll theme [ultralight](https://github.com/kotet/ultralight)
 
 其余均为[kotet](https://github.com/kotet)编写, 使用[MIT](./LICENSE)
 
+我更改的内容同样使用MIT协议
+
 <!-- END NEW README.md -->
 
 ------------------
