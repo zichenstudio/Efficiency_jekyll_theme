@@ -152,3 +152,12 @@ blockquote *:not(li) {
     top: 65%;
     right:5px;
 }
+
+#content {
+    background-color: rgba(235, 248, 253, 0.1);
+    float: right;
+    position: fixed;
+    top: 20%;
+    left: 10px;
+    border-radius: 20px;
+}
