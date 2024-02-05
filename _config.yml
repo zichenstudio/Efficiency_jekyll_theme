@@ -26,6 +26,9 @@ twitter_username:
 # 日期格式化
 date_format: "%Y/%m/%d-%a"
 
+# 图标URL
+icon: ""
+
 # 背景图片URL
 background-url: ""
 
