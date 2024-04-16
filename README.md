@@ -15,8 +15,8 @@
 ## 使用的东西
 
 - [highlight.js](https://github.com/highlightjs/highlight.js)
-- [welcometitle.js](https://github.com/ZiChenStudio/welcometitle.js)
-- [smoothscroll.js](https://github.com/ZiChenStudio/smoothscroll.js)
+- [welcometitle.js](https://github.com/zichenstudio/welcometitle.js)
+- [smoothscroll.js](https://github.com/zichenstudio/smoothscroll.js)
 
 ----
 
@@ -27,7 +27,7 @@
 ### GitHub Pages
 
 ```console
-$ git clone https://github.com/ZiChenStudio/Efficiency_jekyll_theme.git --branch master && cd Efficiency_jekyll_theme
+$ git clone https://github.com/zichenstudio/Efficiency_jekyll_theme.git --branch master && cd Efficiency_jekyll_theme
 $ git remote set-url origin https://github.com/yourname/yourname.github.io.git
 $ git push origin master
 ```
@@ -35,8 +35,14 @@ $ git push origin master
 ### IPFS
 
 ```console
-$ git clone https://github.com/ZiChenStudio/Efficiency_jekyll_theme.git --branch master&& cd Efficiency_jekyll_theme
+$ git clone https://github.com/zichenstudio/Efficiency_jekyll_theme.git --branch master&& cd Efficiency_jekyll_theme
 $ bundle && bundle exec jekyll build
 $ ipfs add -r _site/
 ```
+
+## 实例效果
+
+- [子沉Blog](https://zichenstudio.github.io/blog/)
+
+可以在ISSUE分享你的网站
 
